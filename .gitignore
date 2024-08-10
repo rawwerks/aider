@@ -9,3 +9,9 @@ Gemfile.lock
 _site
 .jekyll-cache/
 .jekyll-metadata
+/tmp.benchmarks
+ eval "$(ssh-agent -s)"
+ eval "$(ssh-agent -s)".pub
+python/
+.env
+.bash_history
